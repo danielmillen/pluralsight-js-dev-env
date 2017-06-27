@@ -1,4 +1,4 @@
-/* eslint-disable no-unresolved */
+/* eslint-disable import/no-unresolved */
 export const schema = {
   "type": "object",
   "properties": {
